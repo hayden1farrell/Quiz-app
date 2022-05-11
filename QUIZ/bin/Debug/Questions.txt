@@ -1,0 +1,8 @@
+﻿﻿What is the capital of France?,London,Paris,Stockport,Marseille,2
+When was the great fire of London?,1066,1966,1666,1542,3
+What football team plays at the Etihad Stadium?, Man Utd,Aresenal,Chelsea, Man City,4
+How many points are scored for a try in Rugby Union?,4,5,6,7,2
+What is the name of the longest river in the British Isles?, Thames,Severn,Trent,Shannon,4
+What is the name of the largest planet in the Solar System?,Jupiter,Saturn, Mars, Neptune,1
+Which of these elements are liquid at room temperature?, Water,Mercury,Hydrogen,Phosphorous,2
+When did the World War II end in Europe?,1939,1944,1945,1940,3
